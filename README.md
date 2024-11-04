@@ -27,7 +27,7 @@ This is the backend for a Finance Management Application built using Node.js and
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 14 or higher)
 - [MongoDB](https://www.mongodb.com/) (set up and running)
-- A package manager like npm or yarn
+- A package manager like npm 
 
 ### Installation
 1. Clone the repository:
